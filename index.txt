@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<tittle>work-repository</tittle>
+</head>
+<body>
+	<div>
+	Department "Information and ittellectual property"
+	faculty "Computer and information technology" National technical university "Kharkov polytechnical institute"
+	</div>
+</body>
+</html>
